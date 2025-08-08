@@ -1,16 +1,16 @@
 # data-cleaning-with-pyspark
 
-*COMPANY:CODTECH IT SOLUTIONS
+*COMPANY:CODTECH IT SOLUTIONS*
 
-#NAME:VIKAS R
+*NAME:VIKAS R*
 
-#INTERN ID:CT06DH742
+*INTERN ID:CT06DH742*
 
-#DOMAIN:BIG DATA
+*DOMAIN:BIG DATA*
 
-#DURATION:6 WEEKS
+*DURATION:6 WEEKS*
 
-#MENTOR:NEELA SANTHOSH
+*MENTOR:NEELA SANTHOSH*
 
 📌 Overview
 This project demonstrates data cleaning using PySpark on the famous Wine dataset. The Wine dataset contains measurements of various chemical properties of wines along with their class labels.
